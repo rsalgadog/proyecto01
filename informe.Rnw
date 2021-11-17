@@ -10,7 +10,8 @@ Hola mundo aqui de nuevo con git
 a <- c(1,2,3)
 a
 @
-Generando un conflicto en git 
+Yo no quiero generar conflicto en git
+quiero trabajar ordenado
 
 
 \end{document}
